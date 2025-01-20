@@ -1,17 +1,38 @@
-Hi there, I'm [Your Name] 👋
-Welcome to my GitHub! I'm a passionate [developer/engineer/enthusiast] focused on building clean, efficient, and scalable solutions. I love exploring new technologies, contributing to open-source projects, and continuously learning. My work spans across a variety of languages and tools, including [list a few tech stacks or languages you enjoy].
+Hello, I'm Arnaud 👋
 
-Here you'll find some of my personal projects, contributions, and experiments. Feel free to check them out, contribute, or reach out if you're interested in collaborating!
+I’m a Junior Full Stack Web Developer with a strong foundation in Ruby on Rails, JavaScript, and SQL, currently expanding my skills to build dynamic, user-friendly web applications. I recently completed an intensive Web Development Bootcamp with Le Wagon, where I had the opportunity to work on projects like an Airbnb clone and Second Spin Records, a platform for vinyl record enthusiasts.
 
-🚀 What I'm working on:
-[Briefly describe any current project you're working on or excited about]
-[Another current project or area of focus]
-📚 Technologies I work with:
-[Tech stack, e.g., JavaScript, Python, React, Docker, etc.]
-[Any specific tools or libraries you frequently use]
-📫 Get in touch:
-Email: [Your Email]
-LinkedIn: [Your LinkedIn]
-Twitter: [Your Twitter]
-Feel free to browse my repositories and let me know if you have any questions or suggestions. Happy coding!
+My journey into tech is informed by a diverse background, from music industry management to hands-on experience in the hospitality industry, which has strengthened my adaptability, communication, and problem-solving skills. I’m excited to bring these experiences into the world of web development, where I aim to create meaningful digital solutions.
 
+
+
+🚀 What I’m working on:
+
+Second Spin Records: A platform for vinyl record collectors to showcase and exchange their collections.
+
+Artbnb: A basic yet functional platform that mimics the core features of Airbnb, including user registration and booking.
+
+
+🔧 Technologies & Tools I’m using:
+
+Frontend: HTML, CSS, JavaScript
+Backend: Ruby on Rails
+Database: SQL
+Version Control: Git, GitHub
+Deployment: Heroku
+Design & Prototyping: Figma
+
+
+🌱 What I’m learning:
+
+Advanced JavaScript and front-end frameworks like React
+Building full-stack applications with deeper integrations and more advanced user experiences.
+
+
+🌍 Let's connect:
+
+Email: polconnection50@gmail.com
+LinkedIn: linkedin.com/in/arnaud-dubois
+Portfolio: [Your Portfolio Link]
+
+Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating on projects, sharing insights, or just chatting about tech!
